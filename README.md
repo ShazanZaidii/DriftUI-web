@@ -1,12 +1,14 @@
 <H1> Sample Code:</H1>
 
 //Entry point of the web app:
+```
 App {
     LoginScreen()
 }
-
+```
 
 //Starting Screen
+```
 fun LoginScreen() {
     set pageTitle = "DriftUI | Secure Authentication"
     
@@ -140,3 +142,4 @@ fun DashboardScreen() {
         }
     }
 }
+```
