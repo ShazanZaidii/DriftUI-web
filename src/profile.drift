@@ -1,0 +1,8 @@
+fun ProfileCard() {
+	Box {
+		Row {
+			Text("Name: Drift Dev")
+			Text("Status: Online")
+		}
+	}
+}

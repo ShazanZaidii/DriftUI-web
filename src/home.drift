@@ -1,0 +1,7 @@
+fun Home() {
+    Column {
+        Text("Engine Booted.")
+        Text("Routing to custom components...")
+        ProfileCard()
+    }
+}
