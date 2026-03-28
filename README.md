@@ -1,4 +1,4 @@
-Sample Code:
+<H1> Sample Code:</H1>
 
 //Entry point of the web app:
 App {
